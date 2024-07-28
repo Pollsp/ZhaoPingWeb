@@ -22,7 +22,7 @@
 ----
 ### 项目：
 
-项目获取: [SpringBoot+Vue_招聘网](https://afdian.com/item/f628a74e4c0d11ef9e545254001e7c00 "SpringBoot+Vue_招聘网")
+项目获取: [SpringBoot+Vue_招聘网](https://mbd.pub/o/bread/ZpmTmJZr "SpringBoot+Vue_招聘网")
 
 
 ----
